@@ -1,6 +1,6 @@
 /*common shared styles*/
 body{
-    font-family: 'lato',sans-serif;
+    
     font-family: 'Open Sans', sans-serif;
 }
 .text-primary{
@@ -123,4 +123,19 @@ main{
 }
 .about-info{
     text-align: center;
+}
+#what-i-do-description{
+    padding:30px 150px;
+}
+.skill-container{
+    display: flex;
+    justify-content: space-around;
+}
+.skill-description{
+    color:  #757575;
+
+font-size: 16px;
+
+font-weight: 400;
+line-height: 28px; 
 }
